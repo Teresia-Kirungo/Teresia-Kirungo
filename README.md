@@ -9,6 +9,8 @@
   
 🔭 I’m currently working on, ["Demystifying the Product Marketing Manager role!"](https://www.instagram.com/terrykirungo)
 
+👩🏽‍💻 Built and refactoring [100-DaysOfCode-Python](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python)
+
 💞️ I’m looking to collaborate on Python and Product Marketing
 - 📫 Let's connect [Twitter](https://twitter.com/terry_kirungo) ...
 
