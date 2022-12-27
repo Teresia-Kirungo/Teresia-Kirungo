@@ -7,12 +7,12 @@
   - Digital Marketing Expert 🤩
   - Software Engineer: Python 👩🏽‍💻
   
-🔭 I’m currently working on, ["Demystifying the Product Marketing Manager role!"](https://www.instagram.com/terrykirungo)
+🔭 I’m currently working on, "Demystifying the Product Marketing Manager role!"
 
-👩🏽‍💻 Built and refactoring [100-DaysOfCode-Python](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python)
+👩🏽‍💻 Built and refactoring 100-DaysOfCode-Python
 
 💞️ I’m looking to collaborate on Python and Product Marketing
-- 📫 Let's connect [Twitter](https://twitter.com/terry_kirungo) ...
+- 📫 Let's connect
 
 <!---
 Teresia-Kirungo/Teresia-Kirungo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
